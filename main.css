@@ -1,5 +1,9 @@
+* {
+    background-color: black;
+}
 h1 {
+    color: red;
     font-family:cursive;
-    color: green;
-    position: relative
+    position: fixed;
+    font-size: 58px;
 }
