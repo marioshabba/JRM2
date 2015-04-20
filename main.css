@@ -5,7 +5,10 @@ html {
 
 h1 {
     font-family:cursive;
+    font-size: 68px;
     position: relative;
     color: red;
+    position: fixed;
+        
 }
 
