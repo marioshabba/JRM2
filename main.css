@@ -1,5 +1,12 @@
+html {
+ background-color: #123;   
+}
+
+
 h1 {
     font-family:cursive;
-    color: green;
+    color: #777;
     position: relative;
+    float: right;
+    font-size: 50px
 }
