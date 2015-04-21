@@ -1,12 +1,9 @@
-html {
- background-color: #123;   
+* {
+    background-color: black;
 }
-
-
 h1 {
+    color: red;
     font-family:cursive;
-    color: #777;
-    position: relative;
-    float: right;
-    font-size: 50px
+    position: fixed;
+    font-size: 48px;
 }
