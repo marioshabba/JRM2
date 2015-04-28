@@ -1,11 +1,9 @@
-
-h1 {
-    color: red;
+div {
     font-family:fantasy;
     color: #930000;
     font-family:cursive;
     position: fixed;
-    font-size: 48px;
+    font-size: 94px;
 }
 body { font-family: sans-serif; }
 
@@ -23,4 +21,8 @@ body { font-family: sans-serif; }
 
 .nav-bar .nav-button-services a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/services.gif") no-repeat 0px -2px transparent; }
 
-.nav-bar .nav-button-products a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/products.gif") no-repeat 0px -2px transparent; }
+.nav-bar .nav-button-sproducts a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/products.gif") no-repeat 0px -2px transparent; }
+p {
+    color: gray;
+    
+}
