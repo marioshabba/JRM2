@@ -14,7 +14,8 @@ body { font-family: sans-serif; }
 
 #main-menu .nav-bar { 
 list-style:none; margin-top: 40px;
-margin-top: 150px
+margin-top: 150px;
+margin-left: 1050px
 }
 #main-menu .nav-bar li { display:inline; padding:0 10px; }
 #main-menu .nav-bar li a {
@@ -29,3 +30,6 @@ margin-top: 150px
 .nav-bar .nav-button-ABOUT a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/ABOUT.gif") no-repeat 0px -2px transparent; }
 .nav-bar .nav-button-LOCATIONS a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/LOCATIONS.gif") no-repeat 0px -2px transparent; }
 .nav-bar .nav-button-SUPPORT a { background:url("http://www.cheesetoast.co.uk/cheesepress/wp-content/uploads/2012/08/SUPPORT.gif") no-repeat 0px -2px transparent; }
+img {
+    margin-left: 220px
+}
