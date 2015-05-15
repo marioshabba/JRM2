@@ -7,7 +7,13 @@ html {
     font-family:cursive;
     position: fixed;
     font-size: 64px;
-    margin-top: -150px
+    margin-top: -150px;
+    background-color: white;
+    max-height: 320px;
+    width: 10000px;
+    left: -12px;
+    
+    
 }
 body { font-family: sans-serif; }
 
@@ -40,6 +46,7 @@ h1 {
     color:red;
     font-family: cursive;
 }
-h2 {
-  border: 3px solid pink;
+
+#navbar{
+ float: inherit;   
 }
